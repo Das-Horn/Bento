@@ -165,16 +165,20 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
-				},
-				{
 					name: 'Trello',
 					link: 'https://www.trello.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Plex',
+					link: 'https://app.plex.tv/desktop/#!/',
+				},
+				{
+					name: 'Nuc',
+					link: 'http://nuc.ie',
+				},
+				{
+					name: 'Sonnar',
+					link: 'http://nuc.ie/sonnar'
 				},
 			],
 		},
